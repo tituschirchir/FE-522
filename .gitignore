@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/FE-522.iml
+.idea/modules.xml
+.idea/workspace.xml
+Homeworks/.idea/
+Homeworks/AllInOne/.idea/
+Homeworks/HW8/project/build/
+cmake-build-debug/

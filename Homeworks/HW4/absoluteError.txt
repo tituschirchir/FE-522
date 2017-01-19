@@ -1,0 +1,4 @@
+ABSOLUTE ERROR: 
+Normal Dist, 1000 data points: Abs Err: 0.184116 
+Exponential Dist, 1000 data points: Abs Err: 0.0713264 
+Uniform Dist, 1000 data points: Abs Err: 0.057 
